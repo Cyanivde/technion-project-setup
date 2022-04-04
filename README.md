@@ -4,8 +4,8 @@ Setup tips for C/C++ projects in Technion courses
 1. [WSL](https://github.com/Cyanivde/technion-project-setup/wiki/1.-WSL)
 2. [Git & GitHub](https://github.com/Cyanivde/technion-project-setup/wiki/2.-Git-&-GitHub)
 3. [VSCode & extensions](https://github.com/Cyanivde/technion-project-setup/wiki/3.-VSCode-&-extensions)
-4. Project skeleton (coming soon)
-5. Tests (coming soon)
-6. [Optional GitHub settings](https://github.com/Cyanivde/technion-project-setup/wiki/6.-Optional-GitHub-configuration)
+4. [Project skeleton](https://github.com/Cyanivde/technion-project-setup/wiki/4.-Project-skeleton)
+5. [[Advanced] Tests](https://github.com/Cyanivde/technion-project-setup/wiki/5.-%5BAdvanced%5D-Tests)
+6. [[Advanced] GitHub Pro settings](https://github.com/Cyanivde/technion-project-setup/wiki/6.-%5BAdvanced%5D-GitHub-Pro-settings)
 
 This is an open-source guide - feel free to add your tips!
