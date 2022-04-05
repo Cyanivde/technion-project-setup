@@ -1,7 +1,7 @@
 # technion-project-setup
 Setup tips for C/C++ projects in Technion courses
 
-1. [Linux environment](https://github.com/Cyanivde/technion-project-setup/wiki/1.-WSL)
+1. [Linux environment](https://github.com/Cyanivde/technion-project-setup/wiki/1.-Linux-environment)
 2. [Git & GitHub](https://github.com/Cyanivde/technion-project-setup/wiki/2.-Git-&-GitHub)
 3. [VSCode & extensions](https://github.com/Cyanivde/technion-project-setup/wiki/3.-VSCode-&-extensions)
 4. [Example project](https://github.com/Cyanivde/technion-project-setup/wiki/4.-Example-project)
